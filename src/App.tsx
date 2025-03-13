@@ -10,6 +10,9 @@ function App() {
         <input type="number" id="amount" name="amount" required min="1"/>
         <button type="submit">Pay Now</button>
     </form>
+    <br />
+    <h2>For test enter in: 4242 4242 4242 4242 for Card Number</h2>
+    <h2>Then enter ANY Date and CSV</h2>
     </>
   )
 }
